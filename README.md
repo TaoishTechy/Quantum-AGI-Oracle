@@ -99,7 +99,7 @@ Both scripts are optimized for the WeMos D1 Mini’s ~32 KB RAM and ~4 MB flash,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/QuantumAGIOracle/QuantumAGIOracle.git
+   git clone https://github.com/TaoishTechy/Quantum-AGI-Oracle/
    ```
 
 2. **Install Libraries**:
